@@ -14,6 +14,11 @@
 
 ### Security
 
+## 3.2.3 - 2024-01-21
+
+### Added
+- Support 2024.1 EAP
+
 ## 3.2.2 - 2023-12-07
 - (Misc): We now have an icon pack! Search the marketplace for "**Catppuccin Icons**" to install it!
 
